@@ -5,8 +5,8 @@ Låt oss bryta ner dessa koncept genom att använda exemplet från Uppgift 3 fö
 **Koncept**: Det är som att uppdatera vad du tror är oddsen för att något ska hända när du får ny information. Till exempel, om du vet att en kund är en tjuv, hur ändrar det oddsen att de bär en mössa?
 
 **I Praktiken**:
-- $**P(M|T)**$ : Sannolikheten att en kund bär en mössa $(M)$ givet att de är en tjuv $(T)$. Här är det 90% eller 0,9.
-- $**P(M|T^c)**$ : Sannolikheten att en kund bär en mössa givet att de inte är en tjuv $(T^c)$. Detta är 10% eller 0,1.
+- $P(M|T)$ : Sannolikheten att en kund bär en mössa $(M)$ givet att de är en tjuv $(T)$. Här är det 90% eller 0,9.
+- $P(M|T^c)$ : Sannolikheten att en kund bär en mössa givet att de inte är en tjuv $(T^c)$. Detta är 10% eller 0,1.
 
 ### 2. Satsen om Total Sannolikhet
 **Koncept**: När du vill ta reda på chanserna för att något ska hända, men detta något kan hända på olika sätt, så adderar du chanserna för varje sätt det kan hända.
