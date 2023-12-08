@@ -12,3 +12,6 @@ HW4.md : https://github.com/scr0-0ge/Statistisk-databehandling-HT23-Xingyi-Chen-
 
 ## Day5
 HW5.md : https://github.com/scr0-0ge/Statistisk-databehandling-HT23-Xingyi-Chen-/blob/main/HW5/hw5%20chen.md
+
+## Day6
+HW6.md : https://github.com/scr0-0ge/Statistisk-databehandling-HT23-Xingyi-Chen-/blob/main/HW6/HW6.md
